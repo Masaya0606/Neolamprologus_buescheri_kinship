@@ -1,3 +1,5 @@
+#This Python code draws kinship relationships, sex, social status, harem, and nest. The kinship data was calculated with king.
+#Social status, harem, nest, and sex were examined at Kombe in Lake Tanganyika.
 import pandas as pd
 import networkx as nx
 import matplotlib.pyplot as plt
